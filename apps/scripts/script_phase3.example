@@ -1,0 +1,7 @@
+MOUNT
+CREATE  file_fs
+OPEN    file_fs
+SEEK    0
+CLOSE
+DELETE  file_fs
+UMOUNT
